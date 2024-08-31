@@ -1,7 +1,5 @@
 # AI_Nutritionist_using_YOLO_GEMINI
 
-Here's a draft README file for the provided code:
-
 # Diet Analysis with Image Recognition
 
 This project uses computer vision and generative AI to analyze meal images and provide personalized nutrition information.
